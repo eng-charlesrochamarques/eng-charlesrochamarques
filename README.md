@@ -96,6 +96,29 @@ React evolution of an earlier JavaScript project, focused on component architect
 
 **Stack:** React · JavaScript · Vite · REST API · CSS/BEM
 
+---
+
+### 🔒 Private Full-Stack Publishing Platform / CMS — Available on Request
+
+A more advanced personal project currently kept in a **private repository** while it is under active development. The project is a complete publishing platform with a public-facing website, private administration interface and custom backend API.
+
+**Stack:** React 19 · Vite · Node.js · Express · MongoDB · Mongoose · Docker
+
+Highlights:
+- Monorepo architecture with frontend, backend and technical documentation
+- Public content experience plus a private React-based administration interface
+- Custom Node.js/Express REST API and MongoDB persistence
+- Authentication and protected administrative functionality
+- Structured content stored as JSON blocks
+- File upload and image-processing pipeline
+- Security middleware including Helmet and rate limiting
+- Docker-based local and production-oriented environments
+- Backend automated tests using Node's native test runner
+- Architecture designed for SEO-friendly static/pre-rendered public content
+- Dedicated documentation for architecture, database, API, deployment and operational security
+
+**Source code is private, but architecture and implementation details can be discussed during an interview or technical review.**
+
 ## Currently developing
 
 - STM32 embedded networking and web-server projects
