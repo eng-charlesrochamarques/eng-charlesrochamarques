@@ -2,9 +2,9 @@
 
 **Electrical & Electronics Engineer | Software & Embedded Systems Developer**
 
-I am an electrical and electronics engineer based in Germany, bringing **8+ years of professional experience across electronics, industrial operations and technical problem-solving**. I am now building my software career through hands-on full-stack and embedded projects.
+I am an electrical and electronics engineer based in Germany, with professional experience across electronics, industrial operations and technical problem-solving. I combine that background with hands-on full-stack and embedded development.
 
-Alongside my hardware background, I develop full-stack applications with JavaScript/React/Node.js and STM32-based embedded systems. This framing reflects my profile accurately: experienced as an engineer, while continuing to grow in professional software development.
+Alongside my hardware background, I develop full-stack applications with JavaScript/React/Node.js and STM32-based embedded systems. My goal is to work where electronics, firmware and software reinforce each other while I continue growing in professional software development.
 
 I enjoy working where **hardware, software and real-world engineering problems meet**.
 
