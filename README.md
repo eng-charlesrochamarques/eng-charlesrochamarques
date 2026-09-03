@@ -26,7 +26,7 @@ I enjoy working where **hardware, software and real-world engineering problems m
 ### Embedded & Electronics
 
 - STM32
-- Embedded C / C++
+- Embedded C
 - STM32 HAL
 - Ethernet / LwIP
 - PCB design & routing
@@ -46,7 +46,7 @@ I enjoy working where **hardware, software and real-world engineering problems m
 
 ### 🌎 [Around The U.S. — Full-Stack Application](https://github.com/eng-charlesrochamarques/web_project_api_full)
 
-Full-stack application developed during the TripleTen Web Development program.
+Full-stack application developed during the **TripleTen Web Development Bootcamp**.
 
 **Stack:** React · JavaScript · Node.js · Express · MongoDB · Mongoose · JWT · REST API
 
@@ -62,7 +62,7 @@ Highlights:
 
 ### 📦 [Web Almoxarifado — Frontend](https://github.com/eng-charlesrochamarques/web-almoxarifado-frontend)
 
-Inventory-management interface developed as a TripleTen final project and inspired by real electronics stock-management workflows.
+Independent full-stack inventory-management project developed as my **TripleTen final project**. The concept was inspired by my experience with electronics inventory and procurement workflows, but it is separate from the proprietary software used by my employer.
 
 **Stack:** React · Vite · JavaScript · React Router · Context API · REST APIs
 
@@ -77,7 +77,7 @@ Highlights:
 
 ### ⚙️ [Web Almoxarifado — Backend](https://github.com/eng-charlesrochamarques/web-almoxarifado-backend)
 
-REST API powering the inventory-management application.
+REST API powering the independent Web Almoxarifado project.
 
 **Stack:** Node.js · Express · MongoDB · Mongoose · JWT · Celebrate/Joi · Winston
 
@@ -87,6 +87,20 @@ Highlights:
 - External supplier API integration
 - Protected credentials via environment variables
 - Validation, error handling and request logging
+
+---
+
+### 🏭 LagerManager → ILMO System — Professional Software Initiative
+
+Before the TripleTen bootcamp, I independently created an inventory and engineering workflow application at home after identifying opportunities to improve recurring technical processes.
+
+I presented the original **LagerManager** to my employer, which decided to adopt the application for internal use. After deployment to the company server, I continued expanding it with additional functionality and it evolved into the **ILMO System**.
+
+This experience was one of the main reasons I decided to deepen my software-development skills: it showed me how software can solve concrete engineering and operational problems.
+
+**Areas involved:** full-stack development · supplier-data integration · BOM-related workflows · engineering automation · inventory and procurement processes
+
+**The production system is proprietary. Source code, company data, credentials and internal implementation details are not published.**
 
 ---
 
@@ -122,7 +136,7 @@ Highlights:
 ## Currently developing
 
 - STM32 embedded networking and web-server projects
-- Internal engineering and automation tools
+- Engineering and workflow automation tools
 - AI-assisted development workflows and software agents
 - Full-stack applications that connect software with engineering processes
 
@@ -142,10 +156,10 @@ I apply the same approach whether I am debugging a PCB, an STM32 Ethernet interf
 
 ## Education
 
-- **B.Sc. Electrical Engineering** — Universidade Federal da Bahia (UFBA)
-- Exchange studies in Electrical Engineering / Automation — Ernst-Abbe-Hochschule Jena
-- Postgraduate studies in Lean Manufacturing — SENAI CIMATEC
-- Web Development — TripleTen
+- **B.Sc. Electrical Engineering** — Universidade Federal da Bahia (UFBA), 2010–2016
+- Exchange studies in Electrical Engineering / Automation — Ernst-Abbe-Hochschule Jena, 2014–2015
+- Postgraduate studies in Lean Manufacturing — SENAI CIMATEC, 2019–2020
+- **Web Development Bootcamp — TripleTen, Aug 2025–Jun 2026**
 
 ## Languages
 
