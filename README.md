@@ -2,9 +2,9 @@
 
 **Electrical & Electronics Engineer | Software & Embedded Systems Developer**
 
-I am an engineer based in Germany with professional experience in electronics development, PCB design, prototyping, manufacturing support and industrial process improvement.
+I am an electrical and electronics engineer based in Germany, bringing **8+ years of professional experience across electronics, industrial operations and technical problem-solving**. I am now building my software career through hands-on full-stack and embedded projects.
 
-Alongside my hardware background, I have expanded my work into **software development and embedded systems**, building full-stack applications with JavaScript/React/Node.js and developing STM32-based embedded projects.
+Alongside my hardware background, I develop full-stack applications with JavaScript/React/Node.js and STM32-based embedded systems. This framing reflects my profile accurately: experienced as an engineer, while continuing to grow in professional software development.
 
 I enjoy working where **hardware, software and real-world engineering problems meet**.
 
@@ -41,6 +41,15 @@ I enjoy working where **hardware, software and real-world engineering problems m
 - 3D printing / rapid prototyping
 - Electronics testing and troubleshooting
 - Production and process optimization
+
+### AI-Assisted Engineering Workflows
+
+- Local LLM experimentation with Ollama and Qwen
+- Prototyping assistants for requirements analysis and Excel/PDF/image-based engineering inputs
+- Using AI to explore troubleshooting hypotheses, accelerate code prototypes and improve technical documentation
+- Reviewing generated code and validating results with tests, logs, datasheets and manual checks
+
+I use AI as an acceleration and exploration tool while retaining responsibility for architecture, security, verification and final implementation decisions.
 
 ## Featured Projects
 
@@ -137,7 +146,7 @@ Highlights:
 
 - STM32 embedded networking and web-server projects
 - Engineering and workflow automation tools
-- AI-assisted development workflows and software agents
+- Local AI-assisted engineering workflows with Ollama and Qwen
 - Full-stack applications that connect software with engineering processes
 
 ## Engineering mindset
